@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6cc7168-b881-41fa-94fe-55ebe45fde0e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../To-do-app" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/.yo-rc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/angular-boilerplate.sublime-project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/images/angular.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/images/browserify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/images/gulp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/common/components/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/common/directives/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/common/filters/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/common/services/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/common/services/data.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movie/_movie.component.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movie/movie.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movie/movie.component.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movies-view/_movies-view.component.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movies-view/movies-view.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movies-view/movies-view.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/components/movies-view/movies-view.component.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/movies/services/movies.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/on_config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/js/on_run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/styles/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/styles/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/app/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/browserSync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/browserify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/deploy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/fonts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/gzip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/images.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/lint-standard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/production.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/protractor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/tdd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/testServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/views.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/tasks/watch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/util/bundleLogger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/util/handleErrors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/util/scriptFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulp/util/testServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/gulpfile.babel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/test/e2e/example_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/test/e2e/routes_spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/test/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../angular-sound/test/protractor.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/.buckconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/.flowconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/.watchmanconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/BUCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/java/com/ios_playground/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/keystores/BUCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/keystores/debug.keystore.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/android/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/index.android.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/index.ios.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground.xcodeproj/xcshareddata/xcschemes/ios_playground.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playground/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playgroundTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/ios/ios_playgroundTests/ios_playgroundTests.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ios_playground/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soundcloud_react_native" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Soundcloud-Radio" afterPath="$PROJECT_DIR$/../Soundcloud-Radio" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TwitterApp" afterPath="$PROJECT_DIR$/../TwitterApp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6cc7168-b881-41fa-94fe-55ebe45fde0e" name="Default" comment="" />
+      <created>1495901692427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495901692427</updated>
+      <workItem from="1495901694766" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
